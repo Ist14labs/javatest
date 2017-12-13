@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mycompany.app.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-12-13T06:00:37" hostname="Air-Dmitrij" time="0.752">
+  <properties/>
+  <testcase name="testApp" classname="com.mycompany.app.AppTest" time="0.752"/>
+  <system-out><![CDATA[QR Code image created successfully!
+Data read from QR Code: The truth is that there is no spoon
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
